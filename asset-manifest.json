@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/gifbook/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/gifbook/static/js/main.a097e84c.chunk.js",
+    "main.js.map": "/gifbook/static/js/main.a097e84c.chunk.js.map",
+    "runtime-main.js": "/gifbook/static/js/runtime-main.b32f7cac.js",
+    "runtime-main.js.map": "/gifbook/static/js/runtime-main.b32f7cac.js.map",
+    "static/js/2.0d883b0e.chunk.js": "/gifbook/static/js/2.0d883b0e.chunk.js",
+    "static/js/2.0d883b0e.chunk.js.map": "/gifbook/static/js/2.0d883b0e.chunk.js.map",
+    "static/js/3.643eae8b.chunk.js": "/gifbook/static/js/3.643eae8b.chunk.js",
+    "static/js/3.643eae8b.chunk.js.map": "/gifbook/static/js/3.643eae8b.chunk.js.map",
+    "index.html": "/gifbook/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/gifbook/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.0d883b0e.chunk.js.LICENSE.txt": "/gifbook/static/js/2.0d883b0e.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/gifbook/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b32f7cac.js",
+    "static/js/2.0d883b0e.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.a097e84c.chunk.js"
+  ]
+}
